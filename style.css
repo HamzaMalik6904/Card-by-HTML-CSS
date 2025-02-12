@@ -1,0 +1,78 @@
+html{
+    background-color: rgb(228, 227, 227);
+}
+.box{
+    border: 1px solid rgb(182, 175, 175);
+    background-color:rgb(245, 241, 241) ;
+    height: 590px;
+    width: 37vw;
+    position: relative;
+    left: 300px;
+    margin: 30px;
+    border-radius: 3%;
+    
+}
+img{
+    border-radius: 25px;
+    padding: 12px;
+
+}
+.nature{
+    border: 2px solid rgba(201, 192, 192, 0.432);
+    width: 48px;
+    padding: 4px;
+    border-radius: 12px;
+    position: relative;
+    bottom: 307px;
+    left: 354px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    height: 8;
+    color: rgba(0, 0, 0, 0.418);
+}
+.lake{
+    border: 2px solid rgba(201, 194, 194, 0.418);
+    width: 48px;
+    height: 16px;
+    padding: 4px;
+    border-radius: 12px;
+    position: relative;
+    bottom: 336px;
+    left: 427px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    color: rgba(0, 0, 0, 0.418);
+}
+.heading{
+    position: relative;
+    bottom:320px;
+    left: 340px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: xx-large;
+
+}
+div > p{
+    position: relative;
+    top: 65px;
+    left: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: larger;
+    overflow: auto;
+    color: rgba(0, 0, 0, 0.418);
+}
+.read_more{
+    position: relative;
+    top: 76px;
+    left: 187px;
+    width: 90px;
+    height: 11px;
+    text-align: center;
+    padding: 19px;
+    border: 2px solid rgba(196, 190, 190, 0.418);
+    border-radius: 30px;
+    background-color: rgba(192, 209, 235, 0.863);
+    color: rgb(67, 111, 231);
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+
+}
